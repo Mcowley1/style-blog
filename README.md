@@ -34,5 +34,8 @@ This app allows users to log in, sign up, view, add, update and remove comments 
 ## Github link
 [Github repo](https://mcowley1.github.io/style-blog/)
 
+## snapshot
+![TECH-BLOG](style-blog-pic.png)
+
 ## Questions
 > Matthewcowley@gmail.com
